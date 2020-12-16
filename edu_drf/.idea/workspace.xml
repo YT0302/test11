@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89d0ba19-eb85-47d7-843f-4f0e3aecff48" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/cart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/cart/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/cart/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/cart/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/cart/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/cart/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/cart/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/cart/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/adminx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/pagination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/paginations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/course/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/apps/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/2020/12/15/756c2726gy1gl8wll1uu8j20qe0xvn2a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/2020/12/15/756c2726gy1gl8wll1uu8j20qe0xvn2a_Rhd3F0Q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/2020/12/15/756c2726gy1gl8wll1uu8j20qe0xvn2a_kgvEUwZ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/avatar/3d2242eb50b8770d3587bc9ee3e4348d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/1073205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/3_5SeWcQ6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/3d2242eb50b8770d3587bc9ee3e4348d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/756c2726gy1gl8wll1uu8j20qe0xvn2a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/756c2726gy1gl8wll1uu8j20qe0xvn2a_gYeY0U6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/QQ图片20201009142400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/changcheng.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/e7e7a6c583efc08e81820a364d393196.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/wallhaven-0ww3qp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/wallhaven-0ww3qp_GaRKk4y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/wallhaven-0ww3qp_KxXbTvj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/wallhaven-xlx8ez.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/wallhaven-zmm7mw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/course/微信图片_20200916185342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/teacher/3d2242eb50b8770d3587bc9ee3e4348d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/media/teacher/3d2242eb50b8770d3587bc9ee3e4348d_h2WMt5W.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu_drf/utils/use_url/useUrl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_drf/apps/home/adminx.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_drf/apps/home/adminx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_drf/apps/home/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_drf/apps/home/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_drf/apps/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_drf/apps/home/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_drf/settings/develop.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_drf/settings/develop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu_drf/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_drf/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/lesson_api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/lesson_api.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_vue" beforeDir="false" afterPath="$PROJECT_DIR$/../edu_vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="edu_drf" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l8k7D6ghwIFom353iK39zGN4JC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/edu_drf/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaizhiEdu\edu_drf\edu_drf\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.edu_drf">
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="edu_drf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/edu_drf/apps/course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/edu_drf/apps/course/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edu_drf" type="Python.DjangoServer" factoryName="Django server">
+      <module name="edu_drf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89d0ba19-eb85-47d7-843f-4f0e3aecff48" name="默认更改列表" comment="" />
+      <created>1606985935130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606985935130</updated>
+      <workItem from="1606985940614" duration="12210000" />
+      <workItem from="1607041940330" duration="16377000" />
+      <workItem from="1607822708193" duration="1199000" />
+      <workItem from="1607839806695" duration="22483000" />
+      <workItem from="1607991904036" duration="24410000" />
+      <workItem from="1608086547884" duration="8180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1608106531073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608106531073" />
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1608105969333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608105969333" />
+    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1608105969333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608105969333" />
+    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1608105969333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608105969333" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1608105969333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608105969333" />
+    <state width="1323" height="242" key="GridCell.Tab.1.bottom" timestamp="1608104828012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608104828012" />
+    <state width="1323" height="242" key="GridCell.Tab.1.center" timestamp="1608104828011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1608104828011" />
+    <state width="1323" height="242" key="GridCell.Tab.1.left" timestamp="1608104828011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1608104828011" />
+    <state width="1323" height="242" key="GridCell.Tab.1.right" timestamp="1608104828011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1608104828011" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1608086550923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608086550923" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1607850721384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607850721384" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/edu_drf$tests.coverage" NAME="tests Coverage Results" MODIFIED="1608030144857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/edu_drf/apps/course" />
+  </component>
+</project>
